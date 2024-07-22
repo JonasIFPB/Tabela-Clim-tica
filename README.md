@@ -1,2 +1,2 @@
-# Tabela-Clim-tica
+# Tabela-Climatica
 Exercício LM tabela climática
