@@ -1,4 +1,3 @@
 # Tabela-Climatica
 Exercício LM tabela climática
-
-https://jonasifpb.github.io/Tabela-Climatica/
+https://jonasgabs.github.io/Tabela-Climatica/
